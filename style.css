@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+  background: #eeeeee;
+  font-family: sans-serif;
+  user-select: none;
+}
+
+canvas {
+  border: 1px solid black;
+  background: white;
+}
